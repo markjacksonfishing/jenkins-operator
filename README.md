@@ -9,31 +9,31 @@ Jenkins Operator Design Document
 
 ---
 
-##Table of Contents
+## Table of Contents
 
-###Abstract
+### Abstract
 
-###Specification
+### Specification
 
-###Motivation
+### Motivation
 
-###Reasoning
+### Reasoning
 
-###Backwards Compatibility
+### Backwards Compatibility
 
-###Security
+### Security
 
-###Infrastructure Requirements
+### Infrastructure Requirements
 
-###Testing
+### Testing
 
-###Prototype Implementation
+### Prototype Implementation
 
-###References
+### References
 
 ----
 
-####Abstract
+#### Abstract
 
 Jenkins Kubernetes Operator can realize the automatic operation 
 and maintenance of Jenkins in the kubernetes cluster.
