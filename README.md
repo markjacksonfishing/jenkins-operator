@@ -1,10 +1,13 @@
 #Jenkins Operator Design Document
+=========
 
 Maintainers:
 
-[Marky Jackson](https://github.com/markyjackson-taulia)
+- [Marky Jackson](https://github.com/markyjackson-taulia)
 
-[runzexia](https://github.com/runzexia)
+- [runzexia](https://github.com/runzexia)
+
+---
 
 ##Table of Contents
 
@@ -28,7 +31,7 @@ Maintainers:
 
 ###References
 
----------------
+----
 
 ####Abstract
 
@@ -39,5 +42,5 @@ Groovy init scripts and more to enable configuration control、
 stateful control and other possible improvements of Jenkins in 
 the kubernetes cluster.
 
----------------
+--------------
 
