@@ -1,5 +1,11 @@
 #Jenkins Operator Design Document
 
+Maintainers:
+
+[Marky Jackson](https://github.com/markyjackson-taulia)
+
+[runzexia](https://github.com/runzexia)
+
 ##Table of Contents
 
 ###Abstract
