@@ -1,36 +1,39 @@
-#Jenkins Operator Design Document
+Jenkins Operator Design Document
+=========
 
-Maintainers:
+##### Maintainers:
 
-[Marky Jackson](https://github.com/markyjackson-taulia)
+- [Marky Jackson](https://github.com/markyjackson-taulia)
 
-[runzexia](https://github.com/runzexia)
+- [runzexia](https://github.com/runzexia)
 
-##Table of Contents
+---
 
-###Abstract
+## Table of Contents
 
-###Specification
+### Abstract
 
-###Motivation
+### Specification
 
-###Reasoning
+### Motivation
 
-###Backwards Compatibility
+### Reasoning
 
-###Security
+### Backwards Compatibility
 
-###Infrastructure Requirements
+### Security
 
-###Testing
+### Infrastructure Requirements
 
-###Prototype Implementation
+### Testing
 
-###References
+### Prototype Implementation
 
----------------
+### References
 
-####Abstract
+----
+
+#### Abstract
 
 Jenkins Kubernetes Operator can realize the automatic operation 
 and maintenance of Jenkins in the kubernetes cluster.
@@ -39,5 +42,5 @@ Groovy init scripts and more to enable configuration control、
 stateful control and other possible improvements of Jenkins in 
 the kubernetes cluster.
 
----------------
+--------------
 
