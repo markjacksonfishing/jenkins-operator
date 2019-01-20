@@ -1,7 +1,7 @@
 Jenkins Operator Design Document
 =========
 
-#Maintainers:
+Maintainers:
 
 - [Marky Jackson](https://github.com/markyjackson-taulia)
 
